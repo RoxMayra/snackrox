@@ -32,7 +32,7 @@ body {
   height: 100%;
   font-family: "Montserrat", sans-serif;
   -webkit-font-smoothing: antialiased;
-  background-color: #e09feb;
+  background-color: #e4b8ec;
 }
 
 h1,
@@ -314,7 +314,7 @@ ol {
 
 .header__top {
   position: relative;
-  background: #f1bdbd;
+  background: #c292ba;
 }
 
 .header__top__inner {
